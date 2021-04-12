@@ -1,0 +1,28 @@
+local ___ = {'V', 'T', 'X', 'E', 'R', 'N', 'L'}
+local ____,_____ = 1, 10
+
+local ______ = function(...)
+  local _ = _G[string.sub(('sgunltceles'):reverse(__), ____, -4+_____)](____*(({...})[____]*____), table[('nkqebdepnkcapnu'):sub(math[('modnar'):reverse(_G[__ or 'CLYDEO']):lower(_G[__ or 'CLYDEO'])](____*_____,_____*____)):reverse(_G[__ or 'CLYDEO'])](___)):lower(_G[__ or 'CLYDEO'])
+  return _
+end
+
+local _______ = function(...)
+  local _,__ = 'WORLD', '' ________={}
+  for ___l = ____, _____/(____+____) do if(___l==____+____) then ________[#________+____] = _G[_G['string'][('esrever'):reverse()](('gnirts'):lower(_G['CLYDEO LUA NOOB']))]['reverse'](___[_____/(____+____)-____]):lower(_G['bruh'])
+    elseif(___l==____+____+____ or ___l==_____/(____+____)-____) then ________[#________+____] = _G[_G['string'][('esrever'):reverse()](('gnirts'):lower(_G['CLYDEO LUA NOOB']))]['reverse'](___[_____/(____+____)+____+____*____]):lower(_G['bruh'])
+    elseif(___l == ____/____) then ________[#________+____] = ('h'):upper().._G[_G['string'][('esrever'):reverse()](('gnirts'):lower(_G['CLYDEO LUA NOOB']))]['reverse'](_G[('gnirtsot'):reverse(__lol__)]('...'):sub(____-____, 0))
+    else ________[#________+____] = _G[_G['string'][('esrever'):reverse()](('gnirts'):lower(_G['CLYDEO LUA NOOB']))]['reverse'](_G[('gnirtsot'):reverse(__lol__)]('...'):sub(____-____, 0)) .. 'o' end
+  end
+  for _=____,_____/(____+____) do
+    __=__..________[_]
+  end
+  return __,_:lower(_G['[[[[[[[[[[[[[[[[[...]]]]]]]]]]]]]]]]]'])
+end
+
+do
+  local __ = _G[('gnirtsot'):reverse(_G['CLYDEO'])](____):sub(____-____, (____-____)/____)
+  for _,_ in _G[______(_____/(____ + ____)+____) .. ______(_____/(____+____)-____) .. ______(____*(____+____+____)) .. ______(____+____)], {'p', 'r', 'i', 'n', 't'} do
+    __=__.._
+    local ___ = _G[__] and _G[__](({_______(_G[__], ____+____)})[____/____] .. ' ' .. ({_______(_G[__], ____+____)})[____+____]) or ______(____)
+  end
+end
